@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\obj\Debug\Repaso2.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\obj\Debug\Repaso2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\obj\Debug\Repaso2.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\bin\Debug\Repaso2.exe.config
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\bin\Debug\Repaso2.exe
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\bin\Debug\Repaso2.pdb
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\obj\Debug\Repaso2.exe
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Repaso2\Repaso2\obj\Debug\Repaso2.pdb
