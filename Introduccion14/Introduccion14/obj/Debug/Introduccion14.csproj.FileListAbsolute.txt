@@ -1,0 +1,8 @@
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\bin\Debug\Introduccion14.exe.config
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\bin\Debug\Introduccion14.exe
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\bin\Debug\Introduccion14.pdb
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\obj\Debug\Introduccion14.csproj.AssemblyReference.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\obj\Debug\Introduccion14.csproj.SuggestedBindingRedirects.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\obj\Debug\Introduccion14.csproj.CoreCompileInputs.cache
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\obj\Debug\Introduccion14.exe
+C:\Users\AulaT\Desktop\Luis\Codigo\esetec_m1_Introduction\Introduccion14\Introduccion14\obj\Debug\Introduccion14.pdb
